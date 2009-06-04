@@ -1,0 +1,152 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.clear { clear: both; height: 1px; }
+
+body {
+	background-color: #040404;
+	color: white;
+}
+
+a img { border: none; }
+
+#background {
+  background: #040404 url(/images/bg_tile.gif) repeat-x;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 703px;
+	color: white;
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+#nav {
+	background: #040404 url(/images/nav_tile.gif) repeat-x;
+	height: 84px;
+}
+
+#nav ul {
+	font-family: Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 40px;
+	margin: 0 auto;
+	width: 700px;
+}
+
+#nav li {
+		display: inline;
+		margin-right:25px;
+}
+
+#nav a, #nav a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+#nav a:hover {
+  text-decoration: underline;
+}
+
+#nav a.selectedPage, #nav a.selectedPage:visited {
+  text-decoration: underline;
+}
+
+.sidebar {
+  float: right;
+}
+
+#wrapper p, #wrapper h1, #wrapper h2 {
+  line-height: 1.5em;
+}
+
+a {
+  color: white;
+}
+
+#wrapper p {
+  font-size: 14px;
+  margin-bottom: 1.5em;
+}
+
+#wrapper h2 {
+  font-size: 18px;
+  margin-bottom: 1em;
+}
+
+#wrapper h1 {
+  color: #97C847;
+  font-size: 20px;
+  margin-bottom: 0.5em;
+}
+
+.bubble {
+  background: url(/images/wordbubble.gif) 0 0 no-repeat;
+  padding-left: 54px;
+}
+
+.chart {
+  background: url(/images/chart.gif) 0 0 no-repeat;
+  padding-left: 54px;
+}
+
+.main_content {
+  width: 400px;
+}
+
+
+#footer {
+  font-size: 12px;
+  line-height: 1.5em;
+  margin: 20px 0px 20px 0px;
+  text-align: right;
+}
+
+#footer hr {
+  margin-bottom: 0.5em;
+  height: 1px;
+  color: white;
+}
+
+.gallery .thumbnail img {
+  border: none;
+}
+
+.gallery .thumbnail .thumbContents {
+  background-color: #333333;
+  border: none;
+  margin: 0;
+  padding: 6px;
+}
+
+.gallery .thumbnail 
+{
+  font-size: smaller;
+  display: inline;
+  float: left;
+  height: auto;
+  line-height: 1.2em;
+  margin-bottom: 12px;
+  margin-right: 5px;
+  min-height: 125px;
+  padding: 0pt;
+  text-align: center;
+  width: 134px;
+}
+
+#lightboxDetails, #lightboxDetails a, #lightboxDetails a:visited {
+  color: black;
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+p.contact_info {
+  margin-left: 65px;
+}
+
+p.contact_info label {
+  margin-left: -65px;
+  float: left;
+}
