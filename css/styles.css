@@ -8,7 +8,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: Junction;
+  font-family: Junction, Arial;
 }
 
 .header {
@@ -22,7 +22,7 @@ h1, h2, h3 {
   display: block;
   width: 710px;
   margin: 0 auto;
-  font-family: Junction;
+  font-family: Junction, Arial;
   font-size: 3em;
   line-height: 1;
 }
