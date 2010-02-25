@@ -24,6 +24,8 @@ Through the course of our work, we often come across bits of functionality that 
 
 * "visilibity-ruby":http://github.com/madriska/visilibity-ruby, Ruby bindings to the "VisiLibity":http://www.visilibity.org/ library for computing visibility in 2-dimensional maps.
 
+* "billable-rb":http://github.com/madriska/billable-rb, a command-line interface to the OS X software "Billable.app":http://clickablebliss.com/billable.
+
 Our developers and contractors also share code on Github on our personal pages: "Brad":http://github.com/bradediger, "Greg":http://github.com/sandal, "Jeremy":http://github.com/jlw, "Jordan":http://github.com/jordanbyron.
 
 Our team includes two technical authors. Brad Ediger wrote "Advanced Rails":http://oreilly.com/catalog/9780596510329, about the Ruby on Rails web framework. Gregory Brown wrote "Ruby Best Practices":http://rubybestpractices.com/, a very well-received title for experienced Ruby developers. Both Brad and Greg have experience as technical communicators, including writing online articles, performing technical review of books, and teaching live trainings on the Ruby language.
