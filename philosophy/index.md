@@ -40,7 +40,7 @@ we recognize this isn't always an option.
 
 For those who need more extensive support, we can transition projects into a
 stable development cycle managed by Madriska. This allows us to offer our input
-into product development through our "Data Driven Intelligence" service.
+into product development through our "Data-Driven Intelligence" service.
 
 
 
