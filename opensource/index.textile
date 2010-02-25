@@ -10,11 +10,11 @@ At Madriska, we are strong believers in the power of "open-source software":http
 Madriska is involved in open source in several ways:
 
 
-h2. We write open-source software.
+h2. We contribute to the community.
 
 Through the course of our work, we often come across bits of functionality that can be extracted and released as open source. When possible, we release this software on "our Github page":http://github.com/madriska. Highlights include:
 
-* "Prawn/Security":http://github.com/madriska/prawn-security, a module for the Ruby PDF library "Prawn":http://prawn.majesticseacreature.com/ that adds encryption, password-protection, and permissions to generated PDFs.
+* "Prawn":http://prawn.majesticseacreature.com/, the premier PDF-generation library for Ruby. Two of the four core developers of Prawn are on Madriska's team.
 
 * "uom":http://github.com/madriska/uom, a Ruby library that helps represent physical units of measure and measurements.
 
@@ -25,11 +25,6 @@ Through the course of our work, we often come across bits of functionality that 
 * "visilibity-ruby":http://github.com/madriska/visilibity-ruby, Ruby bindings to the "VisiLibity":http://www.visilibity.org/ library for computing visibility in 2-dimensional maps.
 
 Our developers and contractors also share code on Github on our personal pages: "Brad":http://github.com/bradediger, "Greg":http://github.com/sandal, "Jeremy":http://github.com/jlw, "Jordan":http://github.com/jordanbyron.
-
-
-h2. We contribute to the community.
-
-In addition to the greenfield software that we release through the course of our work, we also contribute back to the projects that we use. Our developers contribute to projects such as "Prawn":http://prawn.majesticseacreature.com/, "Ruby Reports":http://www.rubyreports.org/, "Ruby on Rails":http://rubyonrails.org/, and a whole host of other projects.
 
 Our team includes two technical authors. Brad Ediger wrote "Advanced Rails":http://oreilly.com/catalog/9780596510329, about the Ruby on Rails web framework. Gregory Brown wrote "Ruby Best Practices":http://rubybestpractices.com/, a very well-received title for experienced Ruby developers. Both Brad and Greg have experience as technical communicators, including writing online articles, performing technical review of books, and teaching live trainings on the Ruby language.
 
