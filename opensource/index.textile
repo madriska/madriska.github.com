@@ -32,5 +32,5 @@ Our team includes two technical authors. Brad Ediger wrote "Advanced Rails":http
 
 h2. We use open-source software.
 
-Like practically every other company in our industry, we make extensive use of open-source software. The Linux operating system that runs our servers; the Ruby language and Ruby on Rails web framework that powers most of our applications; literally hundreds of third-party libraries that we use in the course of our work--it's hard to find a part of our stack that _isn't_ open source.
+Like practically every other company in our industry, we make extensive use of open-source software. The Linux operating system that runs our servers; the Ruby language and Ruby on Rails web framework that power most of our applications; literally hundreds of third-party libraries that we use in the course of our work--it's hard to find a part of our stack that _isn't_ open source.
 
