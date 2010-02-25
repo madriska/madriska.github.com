@@ -1,1 +1,5 @@
 .*.swp
+
+# Jekyll build output
+_site
+

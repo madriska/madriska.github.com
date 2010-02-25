@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <meta http-equiv="content-type" 
+          content="application/xhtml+xml; charset=UTF-8" />
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" type="text/css" href="/css/blueprint/screen.css" 
+          media="screen, projection" />
+    <link rel="stylesheet" type="text/css" href="/css/blueprint/print.css"
+          media="print" />
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="css/blueprint/ie.css" 
+          media="screen, projection" />
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+
+    <script type="text/javascript" 
+      src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js">
+    </script>
+    <script type="text/javascript" src="/javascripts/jquery.nospam.js">
+    </script>
+  </head>
+  <body>
+    <div class="header">
+      <span class="heading">
+        <a href="/">
+          <img src="/images/logo.png" alt="" />
+        </a>
+        {{ page.heading }}
+      </span>
+    </div>
+
+    <div class="container">
+      {{ content }}
+    </div>
+
+    <p class="footer">
+      <strong>Madriska Media Group, Inc.</strong> /
+      1540 N Wood St Rear /
+      Chicago IL 60622<br />
+      <a href="#" rel="moc/aksirdam//ofni" class="email">Info</a> /
+      (877) 678-3589
+    </p>
+  </body>
+
+  <script type="text/javascript">
+    $('a.email').nospam({ replaceText: true });
+  </script>
+</html>
+
+
