@@ -39,11 +39,32 @@ h2 {
 
 p {
   font-size: 1.2em;
+  text-align: justify;
 }
 
 .phone em {
   padding-left: 5px;
   color: #777;
+}
+
+ul.navigation {
+  list-style-type: none;
+  padding-left: 0;
+  border: 1px solid #ccc;
+}
+
+ul.navigation li {
+  padding-left: 10px;
+  line-height: 2;
+}
+
+ul.navigation li.selected {
+  background-color: #ccc;
+  font-weight: bold;
+}
+
+ul.navigation li a {
+  display: block;
 }
 
 p.footer {

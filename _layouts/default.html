@@ -35,7 +35,12 @@
     </div>
 
     <div class="container">
-      {{ content }}
+      <div class="span-14">
+        {{ content }}
+      </div>
+      <div class="span-4 last sidebar">
+        {% include navigation.html %}
+      </div>
     </div>
 
     <p class="footer">

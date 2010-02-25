@@ -1,0 +1,19 @@
+<ul class="navigation">
+  {% if page.id == 'home' %}
+  <li class="selected">Home</li>
+  {% else %}
+  <li><a href="/">Home</a></li>
+  {% endif %}
+
+  {% if page.id == 'philosophy' %}
+  <li class="selected">Philosophy</li>
+  {% else %}
+  <li><a href="/philosophy/">Philosophy</a></li>
+  {% endif %}
+
+  {% if page.id == 'opensource' %}
+  <li class="selected">Open Source</li>
+  {% else %}
+  <li><a href="/opensource/">Open Source</a></li>
+  {% endif %}
+</ul>

@@ -1,0 +1,27 @@
+---
+layout: default
+id: philosophy
+title: Our Philosophy - Madriska Media Group, Inc.
+heading: Our Philosophy
+---
+
+As a company, *we're great at what we do so that you can be great at what you do.* While other software development companies may focus on providing every sort of service under the sun, what sets us apart is the idea that less can be more.
+
+We have distilled the core of common business needs down to two essential services, both designed to to help give great ideas a chance at taking on a life of their own. Our approach has been effective at all ends of the spectrum, so whether your company is big or small, we'd be happy to talk to you.
+
+In a nutshell, these are the things we have to offer:
+
+h2. Data-Driven Intelligence
+
+We build tools that *monitor the ups and downs of your business* in ways that intuition alone could never match. By learning about the problems you're focusing on, and your current approach to solving them, we can provide you with a digital army of sentient robots to do your bidding. Ranging from financial reporting to far more subtle metrics, we can help you identify and develop your best ideas, while detecting any weak spots along the way.
+
+Our systems let you focus on the right problems at the right time, which quickly translates into increased profitability and value.
+
+h2. Immediate Action
+
+*Great ideas need great execution.* Whatever the reason, if you're stalled on a project, it cannot do any good for the world.
+
+We help new businesses turn their ideas into valuable products. We also take projects that have gone off track and set them back on path. When possible, we are happy to work with your existing team to get things moving again. Of course, we recognize this isn't always an option.
+
+For those who need more extensive support, we can transition projects into a stable development cycle managed by Madriska. This allows us to offer our input into product development through our "Data-Driven Intelligence" service.
+
