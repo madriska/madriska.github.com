@@ -9,8 +9,9 @@ Madriska contracts and partners with a distributed team of developers and design
 
 h2. Chicago, IL
 
-p(bio last). %(name)<span>Brad Ediger</span>% Brad is the founder and lead developer at Madriska. He has been working with Ruby on Rails since shortly after its public release in 2004. In 2007, Brad wrote the book "Advanced Rails":http://oreilly.com/catalog/9780596510329 for O'Reilly Media, and has given talks, written articles, and edited books related to Ruby. Brad is a core contributor to the "Prawn":http://prawn.majesticseacreature.com/ library for generating PDFs in Ruby.
+p(bio). %(name)<span>Brad Ediger</span>% Brad is the founder and lead developer at Madriska. He has been working with Ruby on Rails since shortly after its public release in 2004. In 2007, Brad wrote the book "Advanced Rails":http://oreilly.com/catalog/9780596510329 for O'Reilly Media, and he has also given talks, written articles, and edited books related to the Ruby programming language. Brad is a core contributor to the "Prawn":http://prawn.majesticseacreature.com/ library for generating PDFs in Ruby.
 
+p(bio last). At Madriska, Brad manages development across all of our projects while still maintaining a connection with the technical details behind each one. His area of expertise is in developing the technical methods and algorithms that our products use to meet clients' needs.
 
 p(bio last). %(name)<span>Lukass Franklin</span>% ...
 
@@ -20,7 +21,11 @@ p(bio last). %(name)<span>Mari Hoashi Franklin</span>% ...
 
 h2. New Haven, CT
 
-p(bio last). %(name)<span>Gregory Brown</span>% ...
+_Our contractors in New Haven operate as a single unit, working together in the same space frequently, and visiting client sites in the Northeast as needed. This arrangement has proven to be highly effective, resulting in a cohesive team with consistent results, even when tackling some of Madriska's most demanding projects._
+
+p(bio). %(name)<span>Gregory Brown</span>% Gregory specializes in business applications and infrastructure, and is Madriska's go-to guy when it comes to building the under-plumbing that supports the user-facing products we ship. Being involved in the free software community since a young age has taught Gregory an incredible amount about effective software methodologies. His book "Ruby Best Practices":http://rubybestpractices.com/ attempts to summarize the things he has learned from some of the best and brightest developers around.
+
+p(bio last). Gregory has partnered with Madriska on various projects since early 2007 and, with Brad's help, has managed to come up with a development process that meets the rigorous demands of modern businesses while still preserving the fast-paced and flexible approach towards problem solving commonly found among free software developers. As the maintainer and original author of the open source PDF generation library "Prawn":http://prawn.majesticseacreature.com/, Gregory remains actively engaged with the development community while helping Madriska meet the needs of its customers.
 
 p(bio last). %(name)<span>Jordan Byron</span>% ...
 
