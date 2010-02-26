@@ -1,0 +1,38 @@
+---
+layout: default
+id: people
+title: Our People - Madriska Media Group, Inc.
+heading: Our People
+---
+
+Madriska contracts and partners with a distributed team of developers and designers across the United States. This collection of teams allows us to serve clients with projects small to large. With our diverse collection of skills, we can put together a team to serve practically any development need.
+
+h2. Chicago, IL
+
+p(bio last). %(name)<span>Brad Ediger</span>% Brad is the founder and lead developer at Madriska. He has been working with Ruby on Rails since shortly after its public release in 2004. In 2007, Brad wrote the book "Advanced Rails":http://oreilly.com/catalog/9780596510329 for O'Reilly Media, and has given talks, written articles, and edited books related to Ruby. Brad is a core contributor to the "Prawn":http://prawn.majesticseacreature.com/ library for generating PDFs in Ruby.
+
+
+p(bio last). %(name)<span>Lukass Franklin</span>% ...
+
+p(bio last). %(name)<span>Mari Hoashi Franklin</span>% ...
+
+
+
+h2. New Haven, CT
+
+p(bio last). %(name)<span>Gregory Brown</span>% ...
+
+p(bio last). %(name)<span>Jordan Byron</span>% ...
+
+p(bio last). %(name)<span>Chenoa Siegenthaler</span>% ...
+
+
+
+h2. Northwest Arkansas
+
+p(bio last). %(name)<span>Jeremy Weathers</span>% ...
+
+p(bio last). %(name)<span>Brian Sage</span>% ...
+
+p(bio last). %(name)<span>John Lein</span>% ...
+
