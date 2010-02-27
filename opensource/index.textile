@@ -18,7 +18,7 @@ Through the course of our work, we often come across bits of functionality that 
 
 * "uom":http://github.com/madriska/uom, a Ruby library that helps represent physical units of measure and measurements.
 
-* "GangstaWrap":http://github.com/madriska/gangsta_wrap, a nascent Ruby implementation of "Knuth-Plass":http://defoe.sourceforge.net/folio/knuth-plass.html linebreaking (as seen in TeX).
+* "Crawdad":http://github.com/madriska/crawdad, a nascent Ruby implementation of "Knuth-Plass":http://defoe.sourceforge.net/folio/knuth-plass.html linebreaking (as seen in TeX).
 
 * "Pathfinder":http://github.com/madriska/pathfinder, software to find shortest paths and distances through 2-dimensional floorplans or maps.
 
