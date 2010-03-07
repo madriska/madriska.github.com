@@ -27,7 +27,9 @@ p(bio). %(name)<span>Gregory Brown</span>% Gregory specializes in business appli
 
 p(bio last). Gregory has partnered with Madriska on various projects since early 2007 and, with Brad's help, has managed to come up with a development process that meets the rigorous demands of modern businesses while still preserving the fast-paced and flexible approach towards problem solving commonly found among free software developers. As the maintainer and original author of the open source PDF generation library "Prawn":http://prawn.majesticseacreature.com/, Gregory remains actively engaged with the development community while helping Madriska meet the needs of its customers.
 
-p(bio last). %(name)<span>Jordan Byron</span>% ...
+p(bio). %(name)<span>Jordan Byron</span>% Jordan works across many fields at Madriska. Throughout his career, he has learned several development languages and techniques, which gives him a unique insight into everyday problems. Jordan strives to always find simple solutions to complex problems. In 2009, he applied this philosophy to the Connecticut Mission of Mercy dental clinic. His software efficiently processed over 1,700 patients with minimal end-user instruction and zero technical issues.
+
+p(bio last). Jordan joined up with Madriska in mid-2009 to fill the void between backend developers and front-end designers. Having experience in both Rails and general web development, Jordan is able to create rich user experiences that work in harmony with complex internal systems.
 
 p(bio last). %(name)<span>Chenoa Siegenthaler</span>% ...
 
