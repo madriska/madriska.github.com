@@ -14,7 +14,7 @@ h2. We contribute to the community.
 
 Through the course of our work, we often come across bits of functionality that can be extracted and released as open source. When possible, we release this software on "our Github page":http://github.com/madriska. Highlights include:
 
-* "Prawn":http://prawn.majesticseacreature.com/, the premier PDF-generation library for Ruby. Two of the four core developers of Prawn are on Madriska's team.
+* "Prawn":http://prawn.majesticseacreature.com/, the premier PDF-generation library for Ruby. Two of the five core developers of Prawn are on Madriska's team.
 
 * "uom":http://github.com/madriska/uom, a Ruby library that helps represent physical units of measure and measurements.
 
