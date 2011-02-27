@@ -13,8 +13,8 @@ h3. Contact
 
 p(address). 
 *Madriska Media Group, Inc.*
-1527 N Talman Ave # 1
-Chicago IL 60622
+PO Box 47889
+Chicago IL 60647
 
 p(phone). 
 (877) 678-3589 _toll-free_
