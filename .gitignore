@@ -1,5 +1,5 @@
 .*.swp
-
+.sass-cache
 # Jekyll build output
 _site
 
