@@ -14,6 +14,9 @@
   font-style: normal;
 }
 
+html {
+  overflow-y: scroll;
+}
 
 body {
   padding-top: 1em;
@@ -21,33 +24,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: Junction, Arial;
-}
-
-.header {
-  background-color: #494949;
-  padding: 15px 50px;
-  margin: 5px 0 25px 0;
-  color: #c9c9c9;
-}
-
-.header .heading {
-  display: block;
-  width: 710px;
-  margin: 0 auto;
-  font-family: REZ, Arial;
-  font-size: 4em;
-  line-height: 1;
-}
-
-.header .heading a {
-  text-decoration: none;
-  border: none;
-}
-
-.header .heading img {
-  vertical-align: -20%;
-  margin-right: 10px;
+  font-family: Arial;
 }
 
 h2 {
