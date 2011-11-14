@@ -2,7 +2,7 @@
 layout: default
 id: opensource
 title: Open-Source Software - Madriska Media Group, Inc.
-heading: Open-Source Software
+heading: Open Source Software
 ---
 
 At Madriska, we are strong believers in the power of "open-source software":http://en.wikipedia.org/wiki/Open-source_software. Open-source software is software that is made freely available for use and modification. Through the use of open source, we are able to leverage the involvement of a community of developers for our clients' applications. Many of our developers manage open-source projects or contribute to them regularly.
