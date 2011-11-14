@@ -2,7 +2,7 @@
 layout: default
 id: home
 title: Madriska Media Group, Inc.
-heading: Madriska Media Group, Inc.
+heading: Madriska Media Group Inc
 ---
 
 *We're great at what we do so that you can be great at what you do.* While other software development companies may focus on providing every sort of service under the sun, what sets us apart is the idea that less can be more.
@@ -11,11 +11,11 @@ Read more about "our philosophy":/philosophy/ of development.
 
 h3. Contact
 
-p(address). 
+p(address).
 *Madriska Media Group, Inc.*
 PO Box 47889
 Chicago IL 60647
 
-p(phone). 
+p(phone).
 (877) 678-3589 _toll-free_
 (815) 301-3105 _fax_
