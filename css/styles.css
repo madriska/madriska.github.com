@@ -3,17 +3,6 @@
   src: url('/fonts/Junction.otf');
 }
 
-@font-face {
-  font-family: 'REZ';
-  src: url('/fonts/rez-webfont.eot');
-  src: url('/fonts/rez-webfont.eot?#iefix') format('embedded-opentype'),
-       url('/fonts/rez-webfont.woff') format('woff'),
-       url('/fonts/rez-webfont.ttf') format('truetype'),
-       url('/fonts/rez-webfont.svg#REZRegular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
 html {
   overflow-y: scroll;
 }
@@ -24,7 +13,28 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: Arial;
+  font-family: Junction, Arial;
+}
+
+.header {
+  background-color: #494949;
+  padding: 15px 50px;
+  margin: 5px 0 25px 0;
+  color: #c9c9c9;
+}
+
+.header .heading {
+  display: block;
+  width: 710px;
+  margin: 0 auto;
+  font-family: Junction, Arial;
+  font-size: 3em;
+  line-height: 1;
+}
+
+.header .heading img {
+  vertical-align: -20%;
+  margin-right: 10px;
 }
 
 h2 {
