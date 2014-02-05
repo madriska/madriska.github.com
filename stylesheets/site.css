@@ -1,4 +1,13 @@
 body.landing {
   padding-top: 50px; }
-  body.landing h1 {
-    color: #9b621a; }
+  body.landing .row {
+    margin-bottom: 50px; }
+  body.landing #hero h1 {
+    margin-top: 0;
+    color: #9b621a;
+    font-size: 48px; }
+  @media (min-width: 768px) {
+    body.landing #hero .lead {
+      font-size: 30px; } }
+  body.landing #letter {
+    font-size: 20px; }
