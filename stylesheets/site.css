@@ -1,13 +1,26 @@
-body.landing {
-  padding-top: 50px; }
-  body.landing .row {
-    margin-bottom: 50px; }
-  body.landing #hero h1 {
-    margin-top: 0;
-    color: #9b621a;
-    font-size: 48px; }
-  @media (min-width: 768px) {
-    body.landing #hero .lead {
-      font-size: 30px; } }
-  body.landing #letter {
-    font-size: 20px; }
+body.landing section.orange {
+  background-color: #d09e72;
+  color: white;
+  padding: 60px;
+  margin: 40px 0; }
+  body.landing section.orange img {
+    margin-top: 20px; }
+body.landing section.centered {
+  text-align: center;
+  margin: 80px; }
+body.landing img.avatar {
+  width: 128px;
+  height: 128px;
+  border-radius: 128px; }
+body.landing #hero h1 {
+  font-size: 48px; }
+body.landing #hero p.lead {
+  color: #5f3109; }
+@media (min-width: 768px) {
+  body.landing #hero p.lead {
+    font-size: 30px; } }
+body.landing section.letter {
+  padding: 40px 0;
+  background-color: #fff2e7;
+  text-align: justify;
+  font-size: 16px; }
