@@ -1,26 +1,85 @@
-body.landing section.orange {
+html {
+  font-family: 'Lato', sans-serif;
+}
+
+.orange {
   background-color: #d09e72;
   color: white;
   padding: 60px;
-  margin: 40px 0; }
-  body.landing section.orange img {
-    margin-top: 20px; }
-body.landing section.centered {
+  margin: 0;
+  position: relative;
+}
+
+.hero-separator {
   text-align: center;
-  margin: 80px; }
-body.landing img.avatar {
-  width: 128px;
-  height: 128px;
-  border-radius: 128px; }
-body.landing #hero h1 {
-  font-size: 48px; }
-body.landing #hero p.lead {
-  color: #5f3109; }
-@media (min-width: 768px) {
-  body.landing #hero p.lead {
-    font-size: 30px; } }
-body.landing section.letter {
+  position: absolute;
+  bottom: -45px;
+  left: 0px;
+  width: 100%;
+}
+
+.madriska-logo {
+  height: 90px;
+}
+
+.landing .centered {
+  text-align: center;
+  margin: 80px;
+}
+
+#hero h1 {
+  font-size: 60px;
+  letter-spacing: -2px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 0.25em;
+  margin-bottom: 0em;
+}
+
+#hero .lead {
+  color: #5f3109;
+  text-align: center;
+  font-weight: 400;
+  font-size: 25px;
+  margin-top: 0.25em;
+  margin-bottom: 1em;
+}
+
+
+.letter {
   padding: 40px 0;
+  padding-top: 85px;
   background-color: #fff2e7;
   text-align: justify;
-  font-size: 16px; }
+  font-weight: 100;
+}
+
+.letter p {
+  margin: 0 0 30px;
+  font-size: 20px;
+  line-height: 33px;
+}
+
+@media (max-width: 500px) {
+  #hero h1 {
+    font-size: 50px;
+  }
+
+  #hero .lead {
+    font-size: 22px;
+    padding-bottom: 30px;
+  }
+
+  .letter p {
+    font-size: 18px;
+    line-height: 29px;
+  }
+
+  .letter {
+    padding-top: 70px;
+  }
+
+  .orange {
+    padding: 30px;
+  }
+}
