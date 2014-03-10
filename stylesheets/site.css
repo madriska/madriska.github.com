@@ -31,14 +31,12 @@ html {
   font-size: 60px;
   letter-spacing: -2px;
   font-weight: 400;
-  text-align: center;
   margin-top: 0.25em;
   margin-bottom: 0em;
 }
 
 #hero .lead {
   color: #5f3109;
-  text-align: center;
   font-weight: 400;
   font-size: 25px;
   margin-top: 0.25em;
