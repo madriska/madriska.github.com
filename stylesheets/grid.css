@@ -1,9 +1,11 @@
 /* Small screens (default) */
 html { font-size; 105%; }
+.container { width: 90%; }
 
 /* Medium screens (640px) */
 @media (min-width: 40rem) {
   html { font-size: 112%; }
+  .container { width: 675px; }
 }
 
 /* Large screens (1024px) */
@@ -20,5 +22,4 @@ html { font-size; 105%; }
 .container {
   margin: 0 auto;
   max-width: 770px;
-  width: 90%;
 }

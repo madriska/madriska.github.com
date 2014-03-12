@@ -44,14 +44,44 @@ img.logo {
   font-weight: 100; }
   .letter p {
     margin: 0 0 30px;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 33px; }
     .letter p.intro {
+      font-size: 20px;
       font-weight: 400;
-      width: 675px;
-      margin: 0 auto;
-      margin-bottom: 30px;
       text-align: center; }
+    .letter p.signature {
+      display: inline-block;
+      margin-left: 20px;
+      margin-top: 10px; }
+      .letter p.signature span.name {
+        font-size: 20px;
+        font-weight: 400; }
+    .letter p.ps {
+      clear: left;
+      padding-top: 30px;
+      color: #777777;
+      font-style: italic; }
+  .letter div.letter-bottom-left {
+    display: inline-block;
+    width: 315px;
+    margin-right: 50px;
+    margin-left: 20px; }
+    .letter div.letter-bottom-left img.meester-brad {
+      height: 100px;
+      width: 100px;
+      border-radius: 50px;
+      float: left;
+      border: 1px solid rgba(0, 0, 0, 0.5); }
+  .letter div.letter-bottom-right {
+    display: inline-block;
+    width: 267px; }
+    .letter div.letter-bottom-right div {
+      margin: 10px 0; }
+      .letter div.letter-bottom-right div i {
+        width: 20px;
+        text-align: center;
+        margin-right: 20px; }
 
 @media (max-width: 500px) {
   #hero h1 {
