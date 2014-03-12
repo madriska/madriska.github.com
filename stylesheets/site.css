@@ -63,21 +63,19 @@ img.logo {
       color: #777777;
       font-style: italic; }
   .letter div.letter-bottom-left {
-    display: inline-block;
-    width: 315px;
-    margin-right: 50px;
-    margin-left: 20px; }
+    text-align: center; }
     .letter div.letter-bottom-left img.meester-brad {
+      display: block;
+      margin: 0 auto;
       height: 100px;
       width: 100px;
       border-radius: 50px;
-      float: left;
       border: 1px solid rgba(0, 0, 0, 0.5); }
   .letter div.letter-bottom-right {
-    display: inline-block;
-    width: 267px; }
+    text-align: center; }
     .letter div.letter-bottom-right div {
-      margin: 10px 0; }
+      margin: 10px 0;
+      font-size: 1.25em; }
       .letter div.letter-bottom-right div i {
         width: 20px;
         text-align: center;
