@@ -1,70 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <meta http-equiv="content-type"
-          content="application/xhtml+xml; charset=UTF-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
 
-    <link rel="stylesheet" type="text/css" href="/css/blueprint/screen.css"
-          media="screen, projection" />
-    <link rel="stylesheet" type="text/css" href="/css/blueprint/print.css"
-          media="print" />
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" type="text/css" href="css/blueprint/ie.css"
-          media="screen, projection" />
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/stylesheets/normalize.css">
+    <link rel="stylesheet" href="/stylesheets/site.css">
+    <link rel="stylesheet" href="/stylesheets/grid.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <link rel="stylesheet" type="text/css" href="/css/styles.css" />
-    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
-    <script type="text/javascript"
-      src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js">
-    </script>
-    <script type="text/javascript" src="/javascripts/jquery.nospam.js">
-    </script>
   </head>
-  <body>
-    <div class="header">
-      <span class="heading">
-        <a href="/">
-          <img src="/images/logo.png" alt="" />
-        </a>
-        {{ page.heading }}
-      </span>
-    </div>
-
-    <div class="container">
-      <div class="span-14">
-        {{ content }}
-      </div>
-      <div class="span-4 last sidebar">
-        {% include navigation.html %}
-      </div>
-    </div>
-
-    <p class="footer">
-      <strong>Madriska Media Group, Inc.</strong> /
-      PO Box 47889 /
-      Chicago IL 60647<br />
-      <a href="#" rel="moc/aksirdam//ofni" class="email">Info</a> /
-      (312) 613-7114
-    </p>
-
-    <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-    try {
-    var pageTracker = _gat._getTracker("UA-15112685-1");
-    pageTracker._trackPageview();
-    } catch(err) {}</script>
+  <body class="{{ page.id }}">
+    {{ content }}
+    <script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
   </body>
-
-  <script type="text/javascript">
-    $('a.email').nospam({ replaceText: true });
-  </script>
 </html>
-
-
