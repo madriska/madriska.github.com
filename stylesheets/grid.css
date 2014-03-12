@@ -6,6 +6,26 @@ html { font-size; 105%; }
 @media (min-width: 40rem) {
   html { font-size: 112%; }
   .container { width: 675px; }
+  .letter div.letter-bottom-left {
+    display: inline-block;
+    width: 315px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    margin-right: 50px;
+    text-align: left;
+  }
+  .letter div.letter-bottom-left img.meester-brad {
+    float: left;
+    display: inline;
+  }
+  .letter div.letter-bottom-right {
+    display: inline-block;
+    text-align: left;
+    width: 267px
+  }
+  .letter div.letter-bottom-right div {
+    font-size: 19px;
+  }
 }
 
 /* Large screens (1024px) */
@@ -21,5 +41,4 @@ html { font-size; 105%; }
 
 .container {
   margin: 0 auto;
-  max-width: 770px;
 }
