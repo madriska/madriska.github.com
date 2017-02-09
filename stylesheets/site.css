@@ -1,6 +1,12 @@
 html {
   font-family: "Lato", sans-serif; }
 
+.contact {
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+  margin-bottom: 10px;
+}
+
 .orange {
   background-color: #3f5b76;
   color: white;
